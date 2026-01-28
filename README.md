@@ -52,5 +52,4 @@ Add login system
 👩‍💻 Author
 
 Shrouq Ramadan
-Computer Science Student
-Learning C# & OOP
+
